@@ -6,7 +6,4 @@
 
 > [!NOTE]
 > Rome wasn't built in a day, neither are dreams ❤️‍🔥
-— Pham Ngoc Tan
-Head mentor – Chapter Lead
-GDSC-UIT @ Gen II
 
