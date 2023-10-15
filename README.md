@@ -1,5 +1,4 @@
-### Hi there 👋
-#Huyen Duong Thanh
+### Huyen Duong Thanh
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HuyenUITK18/HuyenUITK18/assets/145255422/a75086d2-58e0-4c00-9365-691eba78c91e">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/HuyenUITK18/HuyenUITK18/assets/145255422/a75086d2-58e0-4c00-9365-691eba78c91e">
