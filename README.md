@@ -6,8 +6,8 @@
 
 > [!NOTE]
 > Thank you for visiting :3
----
-> Rome wasn't built in a day, neither are dreams 😉
+
+> Rome wasn't built in a day, neither are dreams ❤️‍🔥
 
 — Pham Ngoc Tan
 Head mentor – Chapter Lead
