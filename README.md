@@ -1,15 +1,16 @@
 ### Hi there 👋
 #Huyen Duong Thanh
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HuyenUITK18/Thanh-Huyen/assets/145255422/b5381c39-7b2c-4282-b32c-538ac57b8eac">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HuyenUITK18/Thanh-Huyen/assets/145255422/b5381c39-7b2c-4282-b32c-538ac57b8eac">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/HuyenUITK18/Thanh-Huyen/assets/145255422/b5381c39-7b2c-4282-b32c-538ac57b8eac"> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HuyenUITK18/HuyenUITK18/assets/145255422/a75086d2-58e0-4c00-9365-691eba78c91e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HuyenUITK18/HuyenUITK18/assets/145255422/a75086d2-58e0-4c00-9365-691eba78c91e">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/HuyenUITK18/HuyenUITK18/assets/145255422/a75086d2-58e0-4c00-9365-691eba78c91e"> 
 </picture>
 
 > [!NOTE]
 > Thank you for visiting :3
 <!--
 **HuyenUITK18/HuyenUITK18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![giphy (1)](https://github.com/HuyenUITK18/HuyenUITK18/assets/145255422/a75086d2-58e0-4c00-9365-691eba78c91e)
 
 Here are some ideas to get you started:
 
